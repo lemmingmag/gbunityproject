@@ -1,0 +1,11 @@
+C:\Users\zhdam\Documents\GitHub\gbunityproject\bin\Debug\netcoreapp2.0\gbunityproject.deps.json
+C:\Users\zhdam\Documents\GitHub\gbunityproject\bin\Debug\netcoreapp2.0\gbunityproject.runtimeconfig.json
+C:\Users\zhdam\Documents\GitHub\gbunityproject\bin\Debug\netcoreapp2.0\gbunityproject.runtimeconfig.dev.json
+C:\Users\zhdam\Documents\GitHub\gbunityproject\bin\Debug\netcoreapp2.0\gbunityproject.dll
+C:\Users\zhdam\Documents\GitHub\gbunityproject\bin\Debug\netcoreapp2.0\gbunityproject.pdb
+C:\Users\zhdam\Documents\GitHub\gbunityproject\obj\Debug\netcoreapp2.0\gbunityproject.csprojAssemblyReference.cache
+C:\Users\zhdam\Documents\GitHub\gbunityproject\obj\Debug\netcoreapp2.0\gbunityproject.csproj.CoreCompileInputs.cache
+C:\Users\zhdam\Documents\GitHub\gbunityproject\obj\Debug\netcoreapp2.0\gbunityproject.AssemblyInfoInputs.cache
+C:\Users\zhdam\Documents\GitHub\gbunityproject\obj\Debug\netcoreapp2.0\gbunityproject.AssemblyInfo.cs
+C:\Users\zhdam\Documents\GitHub\gbunityproject\obj\Debug\netcoreapp2.0\gbunityproject.dll
+C:\Users\zhdam\Documents\GitHub\gbunityproject\obj\Debug\netcoreapp2.0\gbunityproject.pdb
